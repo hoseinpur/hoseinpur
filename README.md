@@ -14,15 +14,14 @@
 <br>
 
 
-### I am a grad student at BTU
-- 🔭 I’m currently working on my Portfolio Website.
-- 🌱 I’m currently learning Data Visualization.
-- 👯 I’m looking to collaborate with other Developers.
+### I am:
+- 👩🏼‍💻 currently working on my app and Portfolio Website.
+- 🧠 currently learning Data Visualization.
 - 🥅 2023 Goals: Contribute to Open Source projects.
-- 💬 Ask me about anything, I am happy to help.
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds.
-- ⚡ My hobbies: I'm a barista, I try different latte art designs for fun. I play chess and learning new strategies is so exciting for me :raised_hands:
+- ⚡ My hobbies: I'm a barista☕️, I try different latte art designs for fun. I play chess♟️ and learning new strategies is so exciting! I'm also astrophotographer🔭so there'll be no commit during Full Moon, Meteor Shower, or any astro event!
+- 👯 I’m looking to collaborate with other Developers and kindred spirits!
+- 💬 How to reach me: [Let's get in touch!][instagram]
 
 <br>
 
