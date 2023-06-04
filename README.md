@@ -16,14 +16,9 @@
 ## &#x1f4c8; GitHub Stats
 
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hoseinpur&%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoseinpur&show_icons=true&count_private=true" /></td>
-    </tr>   
-  </table>
-</center>
+[![Soho's github stats](https://github-readme-stats.vercel.app/api?username=hoseinpur&show_icons=true&theme=default)](https://github.com/hoseinpur/)
+
+
 
 
 <br>
