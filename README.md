@@ -15,15 +15,15 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<!--
+
 ![Stats](https://github.com/hoseinpur/my_stats/blob/master/generated/overview.svg)
 
-![Top Langs](https://github.com/hoseinpur/my_stats/blob/master/generated/languages.svg)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hoseinpur&count_private=true&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true&bg_color=ffffff00&hide_border=true&icon_color=805AD5&text_color=718096" />
-</a>
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <br>
