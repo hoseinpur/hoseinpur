@@ -28,7 +28,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github.com/hoseinpur/MyStats/blob/main/generated/overview.svg" /></td>
-        <td><img width="495px" align="left" src="hhttps://github.com/hoseinpur/MyStats/blob/main/generated/languages.svg" /></td>
+        <td><img width="495px" align="left" src="https://github.com/hoseinpur/MyStats/blob/main/generated/languages.svg" /></td>
     </tr>   
   </table>
 </center>
