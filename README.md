@@ -1,4 +1,4 @@
-  [![My Desk Setup](Resources/my_desksetup.jpg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![My Desk Setup](Resources/MyDeskSetup.jpg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Soho 👋</b></h1>
 </p>
