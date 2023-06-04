@@ -16,9 +16,9 @@
 ## &#x1f4c8; GitHub Stats
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=hoseinpur&show_icons=true&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github.com/hoseinpur/my_stats/blob/master/generated/overview.svg)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hoseinpur&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github.com/hoseinpur/my_stats/blob/master/generated/languages.svg)
 
 
 <br>
