@@ -16,16 +16,8 @@
 ## &#x1f4c8; GitHub Stats
 
 
-<div style="width: 100%;">
- <div style="display: flex;">
-   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
-       <img align="top" src="https://github-readme-stats.vercel.app/api?username=hoseinpur&hide=stars&count_private=true&show_icons=true" />
-   </a>
-   <a href="https://github.com/anuraghazra/convoychat" style="flex: 0 1 50%;">
-       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&layout=compact&hide=vue,php" />
-   </a>
- </div>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&layout=compact&theme=graywhite" alt="hoseinpur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinpur&show_icons=true&theme=graywhite" alt="hoseinpur" /></p>
 
 <br>
 
