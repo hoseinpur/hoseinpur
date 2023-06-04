@@ -18,7 +18,7 @@
 
 [![Soho's github stats](https://github-readme-stats.vercel.app/api?username=hoseinpur&show_icons=true&theme=default)](https://github.com/hoseinpur/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
