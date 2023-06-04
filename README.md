@@ -18,7 +18,7 @@
 
 ![Stats](https://github.com/hoseinpur/my_stats/blob/master/generated/overview.svg)
 
-![Top Langs](https://github.com/hoseinpur/my_stats/blob/master/generated/languages.svg)
+![Top Langs](https://github.com/hoseinpur/my_stats/blob/master/generated/languages.svg&show=jupyter%20notebook)
 
 
 <!--
