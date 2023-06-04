@@ -19,7 +19,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hoseinpur%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hoseinpur&%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoseinpur&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
