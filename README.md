@@ -16,9 +16,9 @@
 ## &#x1f4c8; GitHub Stats
 
 
-[![Stats](https://github.com/hoseinpur/my_stats/blob/master/generated/overview.svg)
+![Stats](https://github.com/hoseinpur/my_stats/blob/master/generated/overview.svg)
 
-[![Top Langs](https://github.com/hoseinpur/my_stats/blob/master/generated/languages.svg)
+![Top Langs](https://github.com/hoseinpur/my_stats/blob/master/generated/languages.svg)
 
 
 <br>
