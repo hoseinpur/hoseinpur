@@ -18,7 +18,7 @@
 
 ![Stats](https://github.com/hoseinpur/my_stats/blob/master/generated/overview.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github.com/hoseinpur/my_stats/blob/master/generated/languages.svg)
 
 
 <!--
