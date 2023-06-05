@@ -15,14 +15,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-
-
 <!--
 ![Stats](https://github.com/hoseinpur/MyStats/blob/main/generated/overview.svg)
 
 ![Top Langs](https://github.com/hoseinpur/MyStats/blob/main/generated/languages.svg)
 -->
-
 
 <center>
   <table>
