@@ -27,12 +27,17 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github.com/hoseinpur/MyStats/blob/main/generated/overview.svg" /></td>
-        <td><img width="495px" align="left" src="https://github.com/hoseinpur/MyStats/blob/main/generated/languages.svg" /></td>
     </tr>   
   </table>
 </center>
 
-
+<center>
+  <table>
+    <tr>
+        <td><img width="495px" align="left" src="https://github.com/hoseinpur/MyStats/blob/main/generated/languages.svg" /></td>
+    </tr>   
+  </table>
+</center>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
