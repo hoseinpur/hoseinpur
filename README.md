@@ -17,12 +17,14 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<!--
+
 ![Stats](https://github.com/hoseinpur/MyStats/blob/main/generated/overview.svg)
 
 ![Top Langs](https://github.com/hoseinpur/MyStats/blob/main/generated/languages.svg)
--->
 
+
+
+<!--
 <center>
   <table>
     <tr>
@@ -38,6 +40,8 @@
     </tr>   
   </table>
 </center>
+-->
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinpur&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
